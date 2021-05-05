@@ -1,5 +1,7 @@
 ls
 cat readme
+ssh bandit1@localhost
+yes
 
 Password: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
  
