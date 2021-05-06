@@ -1,0 +1,13 @@
+nmap -sV -T4 localhost -p 31000-32000
+openssl s_client -connect localhost:31790
+cluFn7wTiGryunymYOu4RcffSxQluehd
+#Copy the private RSA key including first & last lines
+mkdir -p /tmp/bandit17
+cd /tmp/bandit17/
+nano bandit17.pem
+#Paste the RSA key and save changes
+chmod 600 bandit17.key
+ssh -i bandit17.key bandit17@localhost
+cat /etc/bandit_pass/bandit17
+
+Password: xLYVMN9WE5zQ5vHacb0sZEVqbrp7nBTn
