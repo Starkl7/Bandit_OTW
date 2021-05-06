@@ -1,0 +1,26 @@
+ls -la
+mkdir -p /tmp/hexd
+cp data.txt /tmp/hexd
+cd /tmp/hexd
+file data.txt
+cat data.txt
+#reverse hexdump to binary & ouput to 'data'
+xxd -r data.txt data
+file data
+..
+..
+#rename file as :
+#gzip compressed data   - .gz
+#bzip2 compressed data  - .bz2
+#POSIX tar archive      - .tar
+..
+#extract file as :
+#gzip -d <filename.gz>
+#bzip2 -d <filename.bz2>
+#tar -xvf <filename.tar>
+..
+..
+#Repeat till file is fully decompressed as <target>
+cat <target>
+
+Password: 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
