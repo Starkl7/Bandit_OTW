@@ -1,0 +1,8 @@
+ls -la
+cd inhere
+ls -Rla
+find -size 1033c
+cat ./maybehere07/.file2
+ssh bandit6@localhost
+
+Password: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
