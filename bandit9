@@ -1,0 +1,5 @@
+ls -Rla
+strings data.txt | grep =
+#cat data.txt | strings | grep ^=
+
+Password: truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
