@@ -1,0 +1,4 @@
+ls -Rla
+sort data.txt | uniq -u
+
+Password: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
