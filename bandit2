@@ -1,6 +1,4 @@
 ls
 cat "spaces in this filename"
-ssh bandit3@localhost
-yes
 
 Password: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
