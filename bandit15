@@ -1,0 +1,5 @@
+openssl s_client -crlf -connect localhost:30001
+#openssl s_client -ign_eof -connect localhost:30001
+BfMYroe26WYalil77FoDi9qh59eK5xNr
+
+Password: cluFn7wTiGryunymYOu4RcffSxQluehd
