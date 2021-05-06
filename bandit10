@@ -1,0 +1,5 @@
+ls -lRa
+base64 -d data.txt
+#cat data.txt | base64 --decode
+
+Password: IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
