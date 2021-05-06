@@ -1,0 +1,6 @@
+#Executed as bandit17
+ssh -t bandit18@localhost /bin/sh
+ls
+cat readme
+
+Password: IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
