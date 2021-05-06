@@ -1,0 +1,5 @@
+ls -Rla
+cat data.txt
+cat data.txt | grep millionth
+
+Password: cvX2JJa4CFALtqS87jk27qwqGhBM9plV
