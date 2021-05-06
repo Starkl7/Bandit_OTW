@@ -3,7 +3,5 @@ cd inhere
 ls -la
 for x in {0..9}; do file ./-file0$x; done;
 cat ./-file07
-ssh bandit5@localhost
-yes
 
 Password: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
