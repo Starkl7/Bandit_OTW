@@ -4,6 +4,5 @@ ls -Rla
 find -size 1033c 
 #find -type f -size 1033c ! -executable
 cat ./maybehere07/.file2
-ssh bandit6@localhost
 
 Password: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
